@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Task-2/static/css/main.1180cd75.css",
-    "main.js": "/React-Task-2/static/js/main.67c5ec81.js",
-    "static/media/moon.png": "/React-Task-2/static/media/moon.ed34e3ccb9cc98e025d1.png",
-    "static/media/sun.png": "/React-Task-2/static/media/sun.c083fc151ebd00ab40a2.png",
-    "index.html": "/React-Task-2/index.html",
-    "main.1180cd75.css.map": "/React-Task-2/static/css/main.1180cd75.css.map",
-    "main.67c5ec81.js.map": "/React-Task-2/static/js/main.67c5ec81.js.map"
+    "main.css": "/raj-pushkar/Calculator/static/css/main.1180cd75.css",
+    "main.js": "/raj-pushkar/Calculator/static/js/main.8940efe1.js",
+    "static/media/moon.png": "/raj-pushkar/Calculator/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/raj-pushkar/Calculator/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/raj-pushkar/Calculator/index.html",
+    "main.1180cd75.css.map": "/raj-pushkar/Calculator/static/css/main.1180cd75.css.map",
+    "main.8940efe1.js.map": "/raj-pushkar/Calculator/static/js/main.8940efe1.js.map"
   },
   "entrypoints": [
     "static/css/main.1180cd75.css",
-    "static/js/main.67c5ec81.js"
+    "static/js/main.8940efe1.js"
   ]
 }
